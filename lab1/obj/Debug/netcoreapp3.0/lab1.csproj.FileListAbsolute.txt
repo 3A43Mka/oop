@@ -1,0 +1,11 @@
+/home/dmitry/Документы/projects/OOP/lab1/bin/Debug/netcoreapp3.0/lab1
+/home/dmitry/Документы/projects/OOP/lab1/bin/Debug/netcoreapp3.0/lab1.deps.json
+/home/dmitry/Документы/projects/OOP/lab1/bin/Debug/netcoreapp3.0/lab1.runtimeconfig.json
+/home/dmitry/Документы/projects/OOP/lab1/bin/Debug/netcoreapp3.0/lab1.runtimeconfig.dev.json
+/home/dmitry/Документы/projects/OOP/lab1/bin/Debug/netcoreapp3.0/lab1.dll
+/home/dmitry/Документы/projects/OOP/lab1/bin/Debug/netcoreapp3.0/lab1.pdb
+/home/dmitry/Документы/projects/OOP/lab1/obj/Debug/netcoreapp3.0/lab1.csprojAssemblyReference.cache
+/home/dmitry/Документы/projects/OOP/lab1/obj/Debug/netcoreapp3.0/lab1.AssemblyInfoInputs.cache
+/home/dmitry/Документы/projects/OOP/lab1/obj/Debug/netcoreapp3.0/lab1.AssemblyInfo.cs
+/home/dmitry/Документы/projects/OOP/lab1/obj/Debug/netcoreapp3.0/lab1.dll
+/home/dmitry/Документы/projects/OOP/lab1/obj/Debug/netcoreapp3.0/lab1.pdb

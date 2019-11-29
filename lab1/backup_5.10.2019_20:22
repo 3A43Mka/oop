@@ -1,0 +1,118 @@
+using System;
+
+namespace lab1
+{
+    abstract class Vehicle
+    {
+        public string model;
+        protected string introduction;
+        protected string engine;
+        protected float velocity;
+        protected double weight;
+
+        public virtual void printInfo()
+        {
+
+        }
+        public void printBasicInfo()
+        {
+            Console.WriteLine("This is " + this.model + ";\nIt was first introduced in " + this.introduction + "\n");
+
+        }
+    }
+
+    abstract class Car : Vehicle
+    {
+        protected int wheels;
+        protected bool snowTire;
+    }
+    class Automobile : Car
+    {
+        private static int popularity = 80;
+
+        public static int Popularity
+        {
+            get
+            {
+                return popularity;
+            }
+
+            set
+            {
+                if (value > 10)
+                {
+                    popularity = value;
+                }
+                else
+                {
+                    Console.WriteLine("Automobiles can't be THIS unpopular. Try something different");
+                }
+            }
+        }
+        private int passengerSits;
+        private bool isRacing;
+        public Automobile(string model, string introduction, string engine, float velocity, double weight, int wheels, bool snowTire, int passengerSits, bool isRacing)
+        {
+            this.model = model;
+            this.introduction = introduction;
+            this.engine = engine;
+            this.velocity = velocity;
+            this.weight = weight;
+            this.wheels = wheels;
+            this.snowTire = snowTire;
+            this.passengerSits = passengerSits;
+            this.isRacing = isRacing;
+        }
+        public Automobile(string model, string introduction)
+        {
+            this.model = model;
+            this.introduction = introduction;
+            this.engine = "Default Engine";
+            this.velocity = 0f;
+            this.weight = 0;
+            this.wheels = 4;
+            this.snowTire = false;
+            this.passengerSits = 0;
+            this.isRacing = false;
+        }
+        public override void printInfo()
+        {
+            Console.WriteLine("The model of automobile is " + this.model + ";\nIt was first introduced in " + this.introduction + "\n");
+        }
+        public static void typeInfo()
+        {
+            Console.WriteLine("Automobiles are very fast. Definetely faster than trucks fully loaded with bananas :)\nThe most common type of vehicle seen in towns.");
+        }
+
+    }
+    class Truck : Car
+    {
+        private double coachbuilderSize;
+    }
+    class Airplane : Vehicle
+    {
+        private float flyingHeight;
+        private bool isWarplane;
+        private double wingSize;
+    }
+    class Ship : Vehicle
+    {
+
+    }
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            // Console.WriteLine("Hello World!");
+            Automobile.typeInfo();
+            Automobile myCar1 = new Automobile("Tesla X", "November 2017");
+            myCar1.printInfo();
+            myCar1.printBasicInfo();
+            Console.WriteLine("Automobile popularity is " + Automobile.Popularity);
+            Automobile.Popularity = 70;
+            Console.WriteLine("Automobile popularity is " + Automobile.Popularity);
+
+        }
+    }
+}

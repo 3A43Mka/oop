@@ -1,0 +1,11 @@
+/home/dmitry/Документы/projects/OOP/lab4/bin/Debug/netcoreapp3.0/lab4
+/home/dmitry/Документы/projects/OOP/lab4/bin/Debug/netcoreapp3.0/lab4.deps.json
+/home/dmitry/Документы/projects/OOP/lab4/bin/Debug/netcoreapp3.0/lab4.runtimeconfig.json
+/home/dmitry/Документы/projects/OOP/lab4/bin/Debug/netcoreapp3.0/lab4.runtimeconfig.dev.json
+/home/dmitry/Документы/projects/OOP/lab4/bin/Debug/netcoreapp3.0/lab4.dll
+/home/dmitry/Документы/projects/OOP/lab4/bin/Debug/netcoreapp3.0/lab4.pdb
+/home/dmitry/Документы/projects/OOP/lab4/obj/Debug/netcoreapp3.0/lab4.csprojAssemblyReference.cache
+/home/dmitry/Документы/projects/OOP/lab4/obj/Debug/netcoreapp3.0/lab4.AssemblyInfoInputs.cache
+/home/dmitry/Документы/projects/OOP/lab4/obj/Debug/netcoreapp3.0/lab4.AssemblyInfo.cs
+/home/dmitry/Документы/projects/OOP/lab4/obj/Debug/netcoreapp3.0/lab4.dll
+/home/dmitry/Документы/projects/OOP/lab4/obj/Debug/netcoreapp3.0/lab4.pdb

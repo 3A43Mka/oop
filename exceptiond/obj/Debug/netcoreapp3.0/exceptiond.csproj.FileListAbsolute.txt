@@ -1,0 +1,11 @@
+/home/dmitry/Документы/projects/OOP/exceptiond/bin/Debug/netcoreapp3.0/exceptiond
+/home/dmitry/Документы/projects/OOP/exceptiond/bin/Debug/netcoreapp3.0/exceptiond.deps.json
+/home/dmitry/Документы/projects/OOP/exceptiond/bin/Debug/netcoreapp3.0/exceptiond.runtimeconfig.json
+/home/dmitry/Документы/projects/OOP/exceptiond/bin/Debug/netcoreapp3.0/exceptiond.runtimeconfig.dev.json
+/home/dmitry/Документы/projects/OOP/exceptiond/bin/Debug/netcoreapp3.0/exceptiond.dll
+/home/dmitry/Документы/projects/OOP/exceptiond/bin/Debug/netcoreapp3.0/exceptiond.pdb
+/home/dmitry/Документы/projects/OOP/exceptiond/obj/Debug/netcoreapp3.0/exceptiond.csprojAssemblyReference.cache
+/home/dmitry/Документы/projects/OOP/exceptiond/obj/Debug/netcoreapp3.0/exceptiond.AssemblyInfoInputs.cache
+/home/dmitry/Документы/projects/OOP/exceptiond/obj/Debug/netcoreapp3.0/exceptiond.AssemblyInfo.cs
+/home/dmitry/Документы/projects/OOP/exceptiond/obj/Debug/netcoreapp3.0/exceptiond.dll
+/home/dmitry/Документы/projects/OOP/exceptiond/obj/Debug/netcoreapp3.0/exceptiond.pdb

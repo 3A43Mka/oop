@@ -1,0 +1,11 @@
+/home/dmitry/Документы/projects/OOP/Hello World/bin/Debug/netcoreapp3.0/Hello World
+/home/dmitry/Документы/projects/OOP/Hello World/bin/Debug/netcoreapp3.0/Hello World.deps.json
+/home/dmitry/Документы/projects/OOP/Hello World/bin/Debug/netcoreapp3.0/Hello World.runtimeconfig.json
+/home/dmitry/Документы/projects/OOP/Hello World/bin/Debug/netcoreapp3.0/Hello World.runtimeconfig.dev.json
+/home/dmitry/Документы/projects/OOP/Hello World/bin/Debug/netcoreapp3.0/Hello World.dll
+/home/dmitry/Документы/projects/OOP/Hello World/bin/Debug/netcoreapp3.0/Hello World.pdb
+/home/dmitry/Документы/projects/OOP/Hello World/obj/Debug/netcoreapp3.0/Hello World.csprojAssemblyReference.cache
+/home/dmitry/Документы/projects/OOP/Hello World/obj/Debug/netcoreapp3.0/Hello World.AssemblyInfoInputs.cache
+/home/dmitry/Документы/projects/OOP/Hello World/obj/Debug/netcoreapp3.0/Hello World.AssemblyInfo.cs
+/home/dmitry/Документы/projects/OOP/Hello World/obj/Debug/netcoreapp3.0/Hello World.dll
+/home/dmitry/Документы/projects/OOP/Hello World/obj/Debug/netcoreapp3.0/Hello World.pdb
